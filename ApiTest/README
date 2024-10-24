@@ -1,0 +1,24 @@
+*en este ejercicio #2 reutilizamos las fuNciones del ejercicio 1 para mayor eficienecia*
+
+*estas funciones las importamos al principio del archivo*
+
+*creamos las funcionemos adicionales para simular una API REST *
+
+*utilizamos las solicitudes GET, POST, PUT, DELETE*
+
+*todas las funciones devuelven un resultado a excepcion del DELETE el cual borra solo devolviendo 
+el estado de la solicitud HTTP*
+
+*utilizamos la libreria express para desarrollar la API*
+
+*la app se levanta corriendo el comando node antes del nombre del archivo*
+*ejm: node app.js*
+
+*las pruebas las realice con thunder client integrado en VS CODE*
+
+*antes de correr el archivo no olvidar instalar las dependencias primero*
+*esto se realiza con un npm install*
+*posterior a eso recien se corre el node app.js*
+
+******ACLARACION********
+*de igual manera aca se utilizo programacion orientada a eventos para evitar codigo verboso*

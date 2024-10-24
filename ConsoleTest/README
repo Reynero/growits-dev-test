@@ -1,0 +1,22 @@
+*el programa muestra un menu donde al principio hay que crear una primera tarea para que podamos 
+usar las demas funciones del menu*
+
+*la creacion de cada tarea solo espera el nombre de la tarea ya que automaticamente se adiciona el id y el estado de false
+indicando que no esta realizada (pendiente)*
+
+*tenemos 2 opciones para leer las tareas, una es de todas independietemente de que esten hechas o no (AllTaks)*
+
+*la siguiente solo muestra las tareas pendientes, las cuales su estado esta en false*
+
+*a continuacion tenemos la opcion de actualizar el estado de cada tarea para indicar que ya se realizo con un 'true'*
+
+*finalmente tenemos la opcion de borrar cualquier tarea mediante el id ingresado*
+
+*muy posible de que ya hayan tareas creadas como metodo de testeo para el programa (debug)*
+
+*el codigo se ejecuta entrando a la carpeta medainte consola y ejecutando el nombre del archivo con el comando 'node'*
+*ejm: node app.js*
+
+*---------ACLARACION!!----------*
+*el ejecicio pedia hacerlo con POO pero en este caso opte por realizarlo 
+orientandome en eventos para evitar codigo verboso*
